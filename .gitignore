@@ -1,0 +1,12 @@
+# Downloaded Basketball-Reference pages (Sports Reference content; do not redistribute)
+.cache/
+
+# Exported results
+*.csv
+out/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
